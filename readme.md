@@ -1,1 +1,1 @@
-this is my first git hub project
+this is my first git hub project, and we did our first commit.
