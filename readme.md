@@ -11,3 +11,6 @@ git push origin branch
 
 main->procted -> stable-> feature branch....... -> development -> PR ->merge -> main-> review -> merge  -> updated main-> deployment(EC2, vrecel, lambda, github actions)
 
+main->procted -> stable-> feature branch....... -> development -> PR ->merge -> main-> review -> merge  -> updated main-> deployment(EC2, vrecel, lambda, github actions)
+main->procted -> stable-> feature branch....... -> development -> PR ->merge -> main-> review -> merge  -> updated main-> deployment(EC2, vrecel, lambda, github actions)
+
